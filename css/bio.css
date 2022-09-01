@@ -1,0 +1,41 @@
+.resumo-bio {
+    display: flex;
+    justify-content: center;
+    background-color: #D5D5D5;
+    padding: 90px 0 90px 0;
+}
+
+.descricao-bio {
+    margin-right: 50px;
+    width: 430px;
+}
+
+.caixa-titulo {
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.titulo-bio {
+    font-size: 75px;
+    color: #F7AE29;
+    font-weight: 100;
+}
+
+.sub-titulo-bio {
+    font-size: 50px;
+    text-align: center;
+    color: #000000;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+.texto-bio { 
+    text-align: center;
+    color: #242424;
+}
+
+.img-descricao {
+    margin-left: 50px;
+}

@@ -1,0 +1,7 @@
+<svg id="Componente_1_1" data-name="Componente 1 – 1" xmlns="http://www.w3.org/2000/svg" width="241" height="116" viewBox="0 0 241 116">
+  <text id="GUSTAVO" transform="translate(61 51)" fill="#fff" font-size="50" font-family="Impact"><tspan x="0" y="0">GUSTAVO</tspan></text>
+  <text id="Designer_e_Desenvolvedor" data-name="Designer 
+      e 
+     Desenvolvedor" transform="translate(61 72)" fill="#fff" font-size="18" font-family="ShareTechMono-Regular, Share Tech Mono"><tspan x="0" y="0">Designer </tspan><tspan x="0" y="20" xml:space="preserve">      e </tspan><tspan x="0" y="40" xml:space="preserve">     Desenvolvedor</tspan></text>
+  <text id="CODE" transform="translate(56 116) rotate(-90)" fill="#fff" font-size="56" font-family="Impact" opacity="0.1"><tspan x="0" y="0">CODE</tspan></text>
+</svg>

@@ -1,0 +1,51 @@
+.contato {
+    display: flex;
+    background-color: #D5D5D5;
+    background-image: url('../assets/images/tres-pontos-cinza-img.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: space-around;
+    padding-top: 140px;
+    padding-bottom: 70px;
+}
+
+.contudo-contato {
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo-contato {
+    display: flex;
+    justify-content: center;
+    font-weight: 100;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.texto-contato {
+    font-size: 18px;
+    color: #242424;
+    margin-bottom: 10px;
+    margin-left: 1px;
+    display: flex;
+    justify-content: center;
+}
+
+.lista-redes-contato {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.lista-redes-contato a {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.img-gu-ilustrativa {
+    width: 253px;
+    height: 253px;
+    background-image: url('../assets/images/Imagem-gu-ilustrativa.svg');
+    border-radius: 100%;
+}

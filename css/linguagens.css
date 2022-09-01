@@ -1,0 +1,25 @@
+.linguagens {
+    display: flex;
+    flex-direction: column;
+    height: 154px;
+    background-color: #DBDBDB;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo-linguagens {
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-weight: 100;
+}
+
+.lista-linguagens {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+.lista-linguagens li {
+    padding-left: 10px;
+    padding-right: 10px;
+}

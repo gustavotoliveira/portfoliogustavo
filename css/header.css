@@ -1,0 +1,60 @@
+.cabecalho {
+    width: 100%;
+    height: 136px;
+    background-color: #616161;
+    display: flex;
+    justify-content: space-around;
+    background-image: url('../assets/images/tres-pontos-img.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.logo {
+    width: 241px;
+    background-image: url('../assets/images/logo.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.listas {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.lista-redes {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+}
+
+.lista-redes a {
+    padding-left: 10px;
+}
+
+/* .lista-redes li a img:hover {
+    color: #F7AE29;
+    -webkit-filter: opacity(100%);
+} */
+
+.lista-link {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+}
+
+.lista-link a {
+    color: #FFFFFF;
+    padding-left: 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.lista-link a:hover {
+    color: #F7AE29;
+}
