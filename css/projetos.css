@@ -42,3 +42,33 @@
     color: #F7AE29;
     background-color: #616161;
 }
+
+@media screen and (max-width: 415px) {
+    .projetos {
+        background-image: none;
+    }
+
+    .titulo-projetos {
+        margin-left: 0;
+        margin-top: 54px;
+        margin-bottom: 0;
+        align-self: center;
+        font-size: 20px;
+    }
+
+    .caixa-projetos {
+        flex-direction: column;
+    }
+
+    .projeto {
+        margin: 50px 0 0 0;
+    }
+
+    .botao-veja-mais {
+        align-self: center;
+        margin: 25px 0 0 0;
+        font-size: 15px;
+        width: 125px;
+        height: 40px;
+    }
+}

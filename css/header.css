@@ -59,3 +59,20 @@
 .lista-link a:hover {
     color: #F7AE29;
 }
+
+@media screen and (max-width: 415px) {
+    .cabecalho {
+        height: 80px;
+        background-image: none;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .logo {
+        background-image: url('../assets/images/logo-mobile.png');
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}

@@ -25,3 +25,22 @@
 .espaco-texto {
     margin-top: 15px;
 }
+
+@media screen and (max-width: 415px) {
+    .historico {
+        background-size: cover;
+        padding-top: 54px;
+    }
+
+    .titulo-historico {
+        font-size: 20px;
+    }
+
+    .texto-descricao-historico {
+        font-size: 14px;
+    }
+
+    .espaco-texto {
+        margin-top: 10px;
+    }
+}

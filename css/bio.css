@@ -39,3 +39,41 @@
 .img-descricao {
     margin-left: 50px;
 }
+
+@media screen and (max-width: 415px) {
+    .resumo-bio {
+        display: flex;
+        flex-direction: column;
+        padding: 54px 0 54px 0;
+        background-image: url('../assets/images/Imagem\ ilustrativa\ aopacidade\ -\ Conteudo\ resumo.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .descricao-bio {
+        width: 100%;
+        margin: 0;
+    }
+
+    .caixa-titulo {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .titulo-bio {
+        font-size: 60px;
+    }
+
+    .sub-titulo-bio {
+        font-size: 35px;
+    }
+
+    .texto-bio {
+        font-size: 14px;
+    }
+
+    .img-descricao {
+        display: none;
+    }
+}

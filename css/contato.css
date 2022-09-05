@@ -49,3 +49,28 @@
     background-image: url('../assets/images/Imagem-gu-ilustrativa.svg');
     border-radius: 100%;
 }
+
+@media screen and (max-width: 415px) {
+    .contato {
+        flex-direction: column;
+        padding-top: 54px;
+        padding-bottom: 54px;
+    }
+
+    .titulo-contato {
+        font-size: 20px;
+    }
+
+    .texto-contato {
+        font-size: 14px;
+    }
+
+    .lista-redes-contato {
+        margin-top: 25px;
+    }
+
+    .img-gu-ilustrativa {
+        align-self: center;
+        margin-top: 25px;
+    }
+}
